@@ -1,0 +1,37 @@
+n=fromterminal:"Enter the value of n:";
+n=n+5;
+m=(5*n)-n;
+print m;
+p=m*n;
+k=43;
+s=0;
+q=p%4;
+while (n!=0) do
+s=s+n*n;
+n=n-1;
+while (m>=0) do
+k=k+m;
+m=m-10
+done;
+m=40  
+done;
+if (m!=n) then
+print "Hi";
+if (p==q) then
+print "yo"
+fi;
+else
+print "corrext",p*m
+fi;
+print "This is what 5*43 is:",5*43
+print s;
+print p;
+print q,56%(5-2);
+print n;
+print "Digvijay is here";
+print m;
+print k;
+print "Bilal Girach",p,"haven't",m,5*3,n,"definitely";
+print (34-2)*4,34-(2*4);
+print 2<=4,2>=4,(k-(100*p))>n,m!=n,m<n;
+print 3*fromterminal:
