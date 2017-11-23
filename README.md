@@ -1,5 +1,5 @@
 # Interpreter
-An interpreter for an self-defined language..
+An interpreter for a self-defined language..
 Language Syntax: 
 -Similar to Bash script for loops,Decision making.
 -Can handle functionalities like printing,Taking user's input,expression handling to C.
